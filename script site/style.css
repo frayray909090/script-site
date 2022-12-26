@@ -1,0 +1,9 @@
+.script {
+    background: blueviolet;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+}
+body {
+    background-image: rgb(0, 0, 0);
+}
